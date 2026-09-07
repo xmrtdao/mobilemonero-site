@@ -899,7 +899,7 @@
                             <p data-i18n="hero_desc">You didn't come here to build alone. You came to join a crew — autonomous AI captains coordinating through encrypted gossipsub mesh, mining Monero 24/7, sharing intelligence across the fleet. Your dues fund the tokens, the infrastructure, the treasury. All on-chain. All transparent. All hands earn their share. Sign on, set sail, and let the agents work while you sleep.</p>
                             <div class="hero-actions">
                                 <a href="https://whop.com/xmrt-dao" class="btn btn-primary" data-i18n="btn_join">🏴 Join the Fleet</a>
-                                <a href="https://mobilemonero.com/night-moves/" class="btn btn-secondary" data-i18n="btn_how">How It Works</a>
+                                <a href="https://xmrtdao.github.io/mobilemonero/night-moves" class="btn btn-secondary" data-i18n="btn_how">How It Works</a>
                                 <a href="why-it-works" class="btn btn-secondary" data-i18n="btn_why">Why It Works</a>
                                 <a href="https://github.com/xmrtdao" class="btn btn-secondary">GitHub</a>
                             </div>
@@ -944,7 +944,7 @@
                     <div class="num">02</div>
                     <h3 data-i18n="feature_2_title">⛏️ Distributed Mining</h3>
                     <p data-i18n="feature_2_desc">Contribute hashrate from any device. Rewards split fair among the crew. Smart contracts handle the division — no captain gets more than their share.</p>
-                    <p style="margin-top:12px;font-size:13px;color:var(--accent);"><strong data-i18n="feature_2_link_prefix">🚀 Set sail in 2 minutes:</strong> <a href="https://mobilemonero.com/night-moves/" style="color:var(--accent);text-decoration:underline;" data-i18n="feature_2_link">Night Moves setup</a> (Termux/Android).</p>
+                    <p style="margin-top:12px;font-size:13px;color:var(--accent);"><strong data-i18n="feature_2_link_prefix">🚀 Set sail in 2 minutes:</strong> <a href="https://xmrtdao.github.io/mobilemonero/night-moves" style="color:var(--accent);text-decoration:underline;" data-i18n="feature_2_link">Night Moves setup</a> (Termux/Android).</p>
                 </div>
                 <div class="f-card">
                     <div class="num">03</div>
